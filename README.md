@@ -4,20 +4,15 @@ A simple and lightweight counter app built with **React** (created using *Create
 This project helps beginners practice React basics such as **state management**, **event handling**, and **component structure**.
 
 ---
-
 ## 🚀 Live Demo
 👉 [View the project on GitHub Pages](https://Douzandeh.github.io/Simple_Counter)
-
 ---
-
 ## 🛠️ Features
 - Increment, decrement, and reset counter functionality  
 - Built with React Hooks (`useState`)  
 - Minimal and responsive UI  
 - Great for beginners learning React
-
 ---
-
 ## ⚙️ How to Run Locally
 1. Clone the repository:
    ```bash
@@ -56,4 +51,5 @@ This project helps beginners practice React basics such as **state management**,
 
 Frontend Developer passionate about building modern and user-friendly web apps.
 [GitHub Profile](https://github.com/Douzandeh)
+
 
