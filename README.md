@@ -50,15 +50,10 @@ This project helps beginners practice React basics such as **state management**,
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ### 💡 Author
 
 **Hossein Douzandeh**
 
 Frontend Developer passionate about building modern and user-friendly web apps.
 [GitHub Profile](https://github.com/Douzandeh)
+
